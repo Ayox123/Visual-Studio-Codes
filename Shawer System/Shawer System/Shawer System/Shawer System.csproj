@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C8FF5CEA-3706-4329-B32F-2919FA58C889}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Shawer_System</RootNamespace>
+    <AssemblyName>Shawer System</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>bitbug_favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AipSdk, Version=3.6.13.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Baidu.AI.3.6.13\lib\net45\AipSdk.dll</HintPath>
+    </Reference>
+    <Reference Include="AnimationControls">
+      <HintPath>..\..\AnimationControls\AnimationControls\bin\Debug\AnimationControls.dll</HintPath>
+    </Reference>
+    <Reference Include="CSkin">
+      <HintPath>..\..\..\..\OnlineDownload\CSkin 16.1.14.2\CSkin 16.1.14.2\CSkin 4.0\CSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="CxFlatUI">
+      <HintPath>..\..\..\Application DLL\控件库\CxFlatUI.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\Application DLL\控件库\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VisualPlus">
+      <HintPath>..\..\..\Application DLL\控件库\VisualPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="WinForm.UI">
+      <HintPath>..\..\..\Application DLL\控件库\WinForm.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="XRails-LoginUI">
+      <HintPath>..\..\..\Application DLL\控件库\XRails-LoginUI.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing, Version=0.16.4.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.4\lib\net45\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.4.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.4\lib\net45\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\ModelController.cs" />
+    <Compile Include="Model\ModelClass.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="View\BodyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\BodyForm.Designer.cs">
+      <DependentUpon>BodyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CustomMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CustomMessageBox.Designer.cs">
+      <DependentUpon>CustomMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\Pages\ConfigSettins\AboutUs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Pages\ConfigSettins\AboutUs.Designer.cs">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\ConfigSettins\NormallySet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Pages\ConfigSettins\NormallySet.Designer.cs">
+      <DependentUpon>NormallySet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\ConfigSettins\SystemSet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Pages\ConfigSettins\SystemSet.Designer.cs">
+      <DependentUpon>SystemSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\HomePage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Pages\HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Normally App\文件图像识别.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Pages\Normally App\文件图像识别.Designer.cs">
+      <DependentUpon>文件图像识别.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Normally App\识别Page\OCR识别.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Pages\Normally App\识别Page\OCR识别.Designer.cs">
+      <DependentUpon>OCR识别.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\Target Printing\条码打印.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Pages\Target Printing\条码打印.Designer.cs">
+      <DependentUpon>条码打印.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\BodyForm.resx">
+      <DependentUpon>BodyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CustomMessageBox.resx">
+      <DependentUpon>CustomMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Pages\ConfigSettins\AboutUs.resx">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Pages\ConfigSettins\NormallySet.resx">
+      <DependentUpon>NormallySet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Pages\ConfigSettins\SystemSet.resx">
+      <DependentUpon>SystemSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Pages\HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Pages\Normally App\文件图像识别.resx">
+      <DependentUpon>文件图像识别.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Pages\Normally App\识别Page\OCR识别.resx">
+      <DependentUpon>OCR识别.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Pages\Target Printing\条码打印.resx">
+      <DependentUpon>条码打印.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dreamcatcher.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\公司LOGO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bitbug_favicon.ico" />
+    <None Include="Resources\系统设置.png" />
+    <None Include="Resources\文件识别.png" />
+    <None Include="Resources\条码打印.png" />
+    <None Include="Resources\dreamcatcher-1.png" />
+    <None Include="Resources\project-solid-list %281%29.png" />
+    <None Include="Resources\错误.png" />
+    <None Include="Resources\info.png" />
+    <None Include="Resources\文件夹 %281%29.png" />
+    <None Include="Resources\文件夹.png" />
+    <None Include="Resources\打开.png" />
+    <None Include="Resources\打开 %281%29.png" />
+    <None Include="Resources\Model.PNG" />
+    <None Include="Resources\扫描 识别 380%25.png" />
+    <None Include="Resources\用户圆.png" />
+    <None Include="Resources\用户圆 %281%29.png" />
+    <None Include="Resources\连接 %281%29.png" />
+    <None Include="Resources\连接1.png" />
+    <None Include="Resources\连接.png" />
+    <None Include="Resources\电话.png" />
+    <None Include="Resources\地址.png" />
+    <None Include="Resources\qq.png" />
+    <None Include="Resources\文件2.png" />
+    <None Include="Resources\文件1.png" />
+    <None Include="Resources\关于 %281%29.png" />
+    <None Include="Resources\配置管理.png" />
+    <None Include="Resources\栏目配置.png" />
+    <None Include="Resources\文件.png" />
+    <None Include="Resources\list-目录.png" />
+    <None Include="Resources\条码.png" />
+    <None Include="Resources\下.png" />
+    <None Include="Resources\右.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="View\UserControlClass\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

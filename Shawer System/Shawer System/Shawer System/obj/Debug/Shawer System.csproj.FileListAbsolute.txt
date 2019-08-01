@@ -1,0 +1,86 @@
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\Shawer System.exe.config
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\Shawer System.exe
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\Shawer System.pdb
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\CSkin.dll
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\XRails-LoginUI.dll
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\CSkin.xml
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\obj\Debug\Shawer_System.Login.resources
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\obj\Debug\Shawer_System.Properties.Resources.resources
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\obj\Debug\Shawer System.csproj.GenerateResource.cache
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\obj\Debug\Shawer System.csproj.CoreCompileInputs.cache
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\obj\Debug\Shawer System.csproj.CopyComplete
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\obj\Debug\Shawer System.exe
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\obj\Debug\Shawer System.pdb
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\VisualPlus.dll
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\WinForm.UI.dll
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\CxFlatUI.dll
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\MetroFramework.dll
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\AnimationControls.dll
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\AnimationControls.pdb
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\AipSdk.dll
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\obj\Debug\Shawer_System.View.BodyForm.resources
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\bin\Debug\Shawer System.exe.config
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\bin\Debug\Shawer System.exe
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\bin\Debug\Shawer System.pdb
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\bin\Debug\AipSdk.dll
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\bin\Debug\AnimationControls.pdb
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\bin\Debug\CSkin.xml
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\obj\Debug\Shawer System.csprojAssemblyReference.cache
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\obj\Debug\Shawer_System.View.BodyForm.resources
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\obj\Debug\Shawer_System.Login.resources
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\obj\Debug\Shawer_System.Properties.Resources.resources
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\obj\Debug\Shawer System.csproj.GenerateResource.cache
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\obj\Debug\Shawer System.csproj.CoreCompileInputs.cache
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\obj\Debug\Shawer System.csproj.CopyComplete
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\obj\Debug\Shawer System.exe
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\obj\Debug\Shawer System.pdb
+C:\Users\Ayox\Desktop\Soft\Shawer System\Shawer System\obj\Debug\Shawer_System.View.Pages.FoldingBarMenu.resources
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\obj\Debug\Shawer_System.View.Pages.Target_Printing.条码打印.resources
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\zxing.dll
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\zxing.presentation.dll
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\zxing.pdb
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\zxing.xml
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\zxing.presentation.pdb
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\bin\Debug\zxing.presentation.xml
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\obj\Debug\Shawer_System.View.CustomMessageBox.resources
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\obj\Debug\Shawer_System.View.Pages.ConfigSettins.AboutUs.resources
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\obj\Debug\Shawer_System.View.Pages.ConfigSettins.SystemSet.resources
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\obj\Debug\Shawer_System.View.Pages.ConfigSettins.NormallySet.resources
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\obj\Debug\Shawer System.csprojAssemblyReference.cache
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\obj\Debug\Shawer_System.View.Pages.Normally_App.文件识别.OCR识别.resources
+E:\Visual Studio Project\WinForm Application\Shawer System\Shawer System\obj\Debug\Shawer_System.View.Pages.Normally_App.文件图像识别.resources
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\bin\Debug\Shawer System.exe.config
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\bin\Debug\Shawer System.exe
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\bin\Debug\Shawer System.pdb
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\bin\Debug\AipSdk.dll
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\bin\Debug\zxing.dll
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\bin\Debug\zxing.presentation.dll
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\bin\Debug\AnimationControls.pdb
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\bin\Debug\CSkin.xml
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\bin\Debug\zxing.pdb
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\bin\Debug\zxing.xml
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\bin\Debug\zxing.presentation.pdb
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\bin\Debug\zxing.presentation.xml
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer System.csprojAssemblyReference.cache
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer_System.View.BodyForm.resources
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer_System.View.CustomMessageBox.resources
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer_System.Login.resources
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer_System.Properties.Resources.resources
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer_System.View.Pages.ConfigSettins.AboutUs.resources
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer_System.View.Pages.ConfigSettins.NormallySet.resources
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer_System.View.Pages.ConfigSettins.SystemSet.resources
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer_System.View.Pages.Normally_App.文件图像识别.resources
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer_System.View.Pages.Normally_App.文件识别.OCR识别.resources
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer_System.View.Pages.Target_Printing.条码打印.resources
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer System.csproj.GenerateResource.cache
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer System.csproj.CoreCompileInputs.cache
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer System.csproj.CopyComplete
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer System.exe
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer System.pdb
+C:\Users\Ayox\Desktop\Shawer System\Shawer System\obj\Debug\Shawer_System.View.Pages.HomePage.resources
